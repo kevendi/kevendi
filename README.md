@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# I am a software engineer with experience in a range of languages, frameworks and methodologies. This includes Java, Python, AWS, Content Management Systems, Serverless, SQL, Spring Boot and many others. 
+### I am a software engineer with experience in a range of languages, frameworks and methodologies. 
+### This includes Java, Python, AWS, Content Management Systems, Serverless, SQL, Spring Boot and many others.
+### In the technical landscape, I have other interests that include Data Science and Machine Learning to solve problems, discover insight and automate tasks. 
 
 <!--
 **kevendi/kevendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
