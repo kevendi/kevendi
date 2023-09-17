@@ -4,7 +4,7 @@
 
 ⚡ This includes Java, Python, AWS, Content Management Systems, Serverless, SQL, Spring Boot and many others.
 
-🌱 In the technical landscape, I have other interests that include Data Science and Machine Learning to solve problems, discover insight and automate tasks.
+🌱 In the technical landscape, I have other interests that include using Data Science and Machine Learning to solve problems, discover insight and automate tasks.
 
 ⛳ Outside of tech I am a keen follower and player of sports, such as football, tennis and golf, as well as an average musician - and I'm always looking to combine my interest in these with my skills in tech.  
 
