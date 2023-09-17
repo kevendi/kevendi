@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 ### I am a software engineer with experience in a range of languages, frameworks and methodologies. 
 ### This includes Java, Python, AWS, Content Management Systems, Serverless, SQL, Spring Boot and many others.
