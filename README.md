@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I am a software engineer with experience in a range of languages, frameworks and methodologies. This includes Java, Python, AWS, Content Management Systems, Serverless, SQL, Spring Boot and many others. 
+
 <!--
 **kevendi/kevendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
