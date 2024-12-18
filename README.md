@@ -4,8 +4,6 @@
 
 ⛳ Outside of tech I am a keen follower and player of sports, such as football, tennis and golf, as well as an average musician - and I'm always looking to combine my interest in these with my skills in software development. 
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevendi)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **kevendi/kevendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
